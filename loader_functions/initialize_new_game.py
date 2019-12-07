@@ -48,10 +48,10 @@ def get_constants():
     max_items_per_room = 2
 
     colors = {
-        'dark_wall': libtcod.Color(0, 0, 100),
-        'dark_ground': libtcod.Color(50, 50, 150),
-        'light_wall': libtcod.Color(130, 110, 50),
-        'light_ground': libtcod.Color(200, 180, 50)
+        'dark_wall': libtcod.Color(70, 90, 110),
+        'dark_ground': libtcod.Color(100, 105, 110),
+        'light_wall': libtcod.Color(200, 170, 80),
+        'light_ground': libtcod.Color(145, 80, 80)
     }
 
     constants = {
